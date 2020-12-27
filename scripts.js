@@ -1,6 +1,6 @@
 
 
-setTimeout(animedesignbar, 500);
+
 const bars = document.querySelector('.bars');
 const options = { rootMargin : "0px 0px -300px 0px"};
 const observer = new IntersectionObsever(function(){
