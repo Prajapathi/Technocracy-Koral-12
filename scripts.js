@@ -10,5 +10,5 @@ designbar.style.width = designbar.getAttribute('data')+'%';
 designbar.style.opacity = 1;
 })};
 
-animecodebars();
+animecodebar();
 animedesignbar();
